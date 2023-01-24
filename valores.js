@@ -14,4 +14,4 @@ undefined
         identificacion:"1018421132"
     }
 ]
-typeof
+typeof "nombre"
